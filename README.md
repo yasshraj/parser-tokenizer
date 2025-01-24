@@ -1,1 +1,3 @@
 # parser-tokenizer
+
+This repository contains a simple parser for a subset of C-like syntax, designed to tokenize and parse code into a tree structure. The parser is capable of processing function definitions, return statements, assignment statements, arithmetic expressions, and type casting. It constructs a parse tree based on a tokenized input and prints it to visualize the structure of the parsed code.
